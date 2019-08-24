@@ -30,7 +30,6 @@
 ||bmcm.pw^$third-party
 ||bmnr.pw^$third-party
 ||lm195.xyz^$third-party
-/BM.js
 
 ! CoinIMP
 ||coinimp.com$third-party
@@ -63,12 +62,10 @@
 
 ! jscoinminer.com
 ||jscoinminer.com^$third-party
-/js/core.js
 
 ! JSEcoin
 ||jsecoin.com^$third-party
 ||35.239.57.233^$third-party
-/load/*/*/*/0/
 
 ! MoneroMiner.Rocks
 ||monerominer.rocks^$third-party
@@ -101,7 +98,6 @@
 ||nahnoji.cz^$websocket
 ||js.nahnoji.cz^
 ||mine.nahnoji.cz^
-/worker?key=
 /authedminer.js
 /authorization?lang=*&key=*&mandatory=
 /miner?
@@ -110,7 +106,6 @@
 ! WebMinePool
 ||webminepool.com^$third-party
 ||wmtech.ml^$third-party
-/lib/base.js
 
 ! WebMining
 ||webmining.co^$third-party
