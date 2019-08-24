@@ -1,0 +1,126 @@
+[Adblock Fast]
+! Title: Cryptojacker filtering ruleset
+! Homepage: https://adblockfast.com/
+! Contributing: https://github.com/rocketshipapps/cryptojackers/issues
+!
+! Copyright 2019 Rocketship <https://rocketshipapps.com/>
+!
+! This program is free software: you can redistribute it and/or modify it under
+! the terms of the GNU General Public License as published by the Free Software
+! Foundation, either version 3 of the License, or (at your option) any later
+! version.
+!
+! This program is distributed in the hope that it will be useful, but WITHOUT
+! ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+! FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+!
+! You should have received a copy of the GNU General Public License along with
+! this program. If not, see https://www.gnu.org/licenses/.
+!
+! Authors (one per line):
+!
+!   Brian Kennish <brian@rocketshipapps.com>
+
+! Cryptojacking services -------------------------------------------------------
+
+! BrowserMine.com
+||browsermine.com^$third-party
+||lightminer.co^$third-party
+||bmst.pw^$third-party
+||bmcm.pw^$third-party
+||bmnr.pw^$third-party
+||lm195.xyz^$third-party
+/BM.js
+
+! CoinIMP
+||coinimp.com$third-party
+||coinimp.net$third-party
+||hostingcloud.racing^$third-party
+||hostcontent.live^$third-party
+/DN5UQ06N.wasm
+/pRm0YrkV.wasm
+
+! CoinNebula
+||coinnebula.com^$third-party
+||1q2w3.website^$third-party
+||1q2w3.fun^$third-party
+
+! CryptoLoot
+||crypto-loot.org^$third-party
+||crypto-loot.com^$third-party
+||statdynamic.com^$third-party,domain=~crypto-loot.org
+||verifypow.com^$third-party,domain=~crypto-loot.org
+||reauthenticator.com^$third-party,domain=~crypto-loot.org
+/crypta.js
+
+! Crypto Webminer
+||crypto-webminer.com^$third-party
+||ethereum-pocket.com^$third-party
+||easyhash.de^$third-party
+/gustav.js
+/perfektweb.js
+/tkefrep.js
+
+! jscoinminer.com
+||jscoinminer.com^$third-party
+/js/core.js
+
+! JSEcoin
+||jsecoin.com^$third-party
+||35.239.57.233^$third-party
+/load/*/*/*/0/
+
+! MoneroMiner.Rocks
+||monerominer.rocks^$third-party
+||xmrminingproxy.com^$third-party
+/webmnr.min.js
+/miner-cmp-ajax.php
+
+! NeroHut
+||nerohut.com^$third-party
+||nhsrv.cf^$third-party
+||nhoct2.tk^$third-party
+/srv/?key=
+
+! NF WebMiner
+||nfwebminer.com^$third-party
+||contextjs.info^$third-party
+||losital.ru^$third-party
+||mepirtedic.com^$third-party
+||silimbompom.com^$third-party
+||uoldid.ru^$third-party
+||vuryua.ru^$third-party
+
+! SpareChange.io
+||sparechange.io^$third-party
+/sparechange.js
+
+! Webmine
+||webmine.cz^$third-party
+||authedwebmine.cz^$third-party,domain=~webmine.cz
+||nahnoji.cz^$websocket
+||js.nahnoji.cz^
+||mine.nahnoji.cz^
+/worker?key=
+/authedminer.js
+/authorization?lang=*&key=*&mandatory=
+/miner?
+/compact_miner?
+
+! WebMinePool
+||webminepool.com^$third-party
+||wmtech.ml^$third-party
+/lib/base.js
+
+! WebMining
+||webmining.co^$third-party
+/wm.js?s=*&p=
+
+! WP Monero Miner
+||wp-monero-miner.com^$third-party
+||wp-monero-miner.de^$third-party
+||tunnel.monero-miner.net^
+/_webminer.min.js
+/wp-monero-miner-class.js
+/wp-monero-miner-util.js
+/wp-monero-miner.js
