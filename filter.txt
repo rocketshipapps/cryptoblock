@@ -1,7 +1,7 @@
 [Adblock Fast]
-! Title: Cryptojacker filtering ruleset
+! Title: Cryptojacking filter
 ! Homepage: https://adblockfast.com/
-! Contributing: https://github.com/rocketshipapps/cryptojackers/issues
+! Contributing: https://github.com/rocketshipapps/cryptojacking/issues
 !
 ! Copyright 2019 Rocketship <https://rocketshipapps.com/>
 !
@@ -120,7 +120,7 @@
 /wp-monero-miner-util.js
 /wp-monero-miner.js
 
-! Mining pools -----------------------------------------------------------------
+! Cryptomining pools -----------------------------------------------------------
 
 ! AEON Mining Pool
 ||pool.aeonminingpool.com^$third-party
