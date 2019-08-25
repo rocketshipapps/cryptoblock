@@ -50,15 +50,15 @@
 ||statdynamic.com^$third-party,domain=~crypto-loot.org
 ||verifypow.com^$third-party,domain=~crypto-loot.org
 ||reauthenticator.com^$third-party,domain=~crypto-loot.org
-/crypta.js
+/crypta.
 
 ! Crypto Webminer
 ||crypto-webminer.com^$third-party
 ||ethereum-pocket.com^$third-party
 ||easyhash.de^$third-party
-/gustav.js
-/perfektweb.js
-/tkefrep.js
+/gustav.
+/perfektweb.
+/tkefrep.
 
 ! jscoinminer.com
 ||jscoinminer.com^$third-party
@@ -70,7 +70,7 @@
 ! MoneroMiner.Rocks
 ||monerominer.rocks^$third-party
 ||xmrminingproxy.com^$third-party
-/webmnr.min.js
+/webmnr.
 /miner-cmp-ajax.php
 
 ! NeroHut
@@ -82,6 +82,7 @@
 ! NF WebMiner
 ||nfwebminer.com^$third-party
 ||contextjs.info^$third-party
+||creditsplys.ru^$third-party
 ||losital.ru^$third-party
 ||mepirtedic.com^$third-party
 ||silimbompom.com^$third-party
@@ -90,7 +91,7 @@
 
 ! SpareChange.io
 ||sparechange.io^$third-party
-/sparechange.js
+/sparechange.
 
 ! Webmine
 ||webmine.cz^$third-party
@@ -98,7 +99,7 @@
 ||nahnoji.cz^$websocket
 ||js.nahnoji.cz^
 ||mine.nahnoji.cz^
-/authedminer.js
+/authedminer.
 /authorization?lang=*&key=*&mandatory=
 /miner?
 /compact_miner?
@@ -115,10 +116,10 @@
 ||wp-monero-miner.com^$third-party
 ||wp-monero-miner.de^$third-party
 ||tunnel.monero-miner.net^
-/_webminer.min.js
-/wp-monero-miner-class.js
-/wp-monero-miner-util.js
-/wp-monero-miner.js
+/_webminer.
+/wp-monero-miner-class.
+/wp-monero-miner-util.
+/wp-monero-miner.
 
 ! Cryptomining pools -----------------------------------------------------------
 
@@ -268,3 +269,27 @@
 
 ! XUN Alpha Mining Pool
 ||alpha.ultranote.org^$third-party
+
+! Potential malware ------------------------------------------------------------
+
+! Various hosts
+||freecontent.bid^$third-party
+||minescripts.info^$third-party
+||ppoi.org^$third-party
+||pr0gramm.com^$third-party
+
+! Various paths
+/cn.wasm
+/crn.wasm
+/cryptonight.wasm
+/cryptonight-worker.
+/cryptonoter.wasm
+/deepMiner.
+/lhnhelpouttab-current.
+/miner.
+/miner-ui.
+/nano.wasm
+/NDj2.
+/webmr.
+/xmr.
+/xmrbr.
