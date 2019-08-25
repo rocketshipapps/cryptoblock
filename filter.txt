@@ -93,6 +93,10 @@
 ||sparechange.io^$third-party
 /sparechange.
 
+! WebCoin
+||devphp.org.ua^$third-party
+/webcoin.
+
 ! Webmine
 ||webmine.cz^$third-party
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
@@ -154,6 +158,13 @@
 
 ! LTHN Official Pool
 ||pool.lethean.io^$third-party
+
+! Minero
+||minero.cc^$third-party
+/minero.
+/minero-miner.
+/minero-hidden.
+/cryptonight.wasm
 
 ! mineXMR.com
 ||pool.minexmr.com^$third-party
@@ -235,6 +246,9 @@
 ||xmr-us-east1.nanopool.org^$third-party
 ||xmr-us-west1.nanopool.org^$third-party
 
+! OMINE
+||xmr.omine.org^$third-party
+
 ! Pool Tupi
 ||aeon.pooltupi.com^$third-party
 
@@ -279,9 +293,7 @@
 ||pr0gramm.com^$third-party
 
 ! Various paths
-/cn.wasm
 /crn.wasm
-/cryptonight.wasm
 /cryptonight-worker.
 /cryptonoter.wasm
 /deepMiner.
