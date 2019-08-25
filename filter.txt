@@ -119,3 +119,152 @@
 /wp-monero-miner-class.js
 /wp-monero-miner-util.js
 /wp-monero-miner.js
+
+! Mining pools -----------------------------------------------------------------
+
+! AEON Mining Pool
+||pool.aeonminingpool.com^$third-party
+
+! AR Hash
+||arq-ird.arhash.xyz^$third-party
+||xcash.arhash.xyz^$third-party
+
+! Dwarfpool
+||xmr-eu.dwarfpool.com^$third-party
+||xmr-us.dwarfpool.com^$third-party
+
+! HashVault
+||pool.hashvault.pro^$third-party
+||hashvault.pro:80^$third-party
+||hashvault.pro:443^$third-party
+||hashvault.pro:3333^$third-party
+||hashvault.pro:5555^$third-party
+||hashvault.pro:7777^$third-party
+||hashvault.pro:8888^$third-party
+||aeon.hashvault.pro^$third-party
+||electroneum.hashvault.pro^$third-party
+||graft.hashvault.pro^$third-party
+||masari.hashvault.pro^$third-party
+||scala.hashvault.pro^$third-party
+||turtle.hashvault.pro^$third-party
+
+! INTU Mining Pool
+||pool.us.intucoin.com^$third-party
+
+! LTHN Official Pool
+||pool.lethean.io^$third-party
+
+! mineXMR.com
+||pool.minexmr.com^$third-party
+||minexmr.com:80^$third-party
+||minexmr.com:3333^$third-party
+||minexmr.com:4444^$third-party
+||minexmr.com:5555^$third-party
+||minexmr.com:6666^$third-party
+||minexmr.com:7777^$third-party
+
+! monero.crypto-pool.fr
+||xmr.crypto-pool.fr^$third-party
+
+! MoneroHash
+||monerohash.com:80^$third-party
+||monerohash.com:2222^$third-party
+||monerohash.com:5555^$third-party
+||monerohash.com:7777^$third-party
+||monerohash.com:9999^$third-party
+
+! MoneroOcean
+||moneroocean.stream:80^$third-party
+||moneroocean.stream:443^$third-party
+||moneroocean.stream:10001^$third-party
+||moneroocean.stream:10002^$third-party
+||moneroocean.stream:10004^$third-party
+||moneroocean.stream:10008^$third-party
+||moneroocean.stream:10016^$third-party
+||moneroocean.stream:10032^$third-party
+||moneroocean.stream:10064^$third-party
+||moneroocean.stream:10128^$third-party
+||moneroocean.stream:10256^$third-party
+||moneroocean.stream:10512^$third-party
+||moneroocean.stream:11024^$third-party
+||moneroocean.stream:12048^$third-party
+||moneroocean.stream:14096^$third-party
+||moneroocean.stream:18192^$third-party
+||moneroocean.stream:20001^$third-party
+||moneroocean.stream:20002^$third-party
+||moneroocean.stream:20004^$third-party
+||moneroocean.stream:20008^$third-party
+||moneroocean.stream:20016^$third-party
+||moneroocean.stream:20032^$third-party
+||moneroocean.stream:20064^$third-party
+||moneroocean.stream:20128^$third-party
+||moneroocean.stream:20256^$third-party
+||moneroocean.stream:20512^$third-party
+||moneroocean.stream:21024^$third-party
+||moneroocean.stream:22048^$third-party
+||moneroocean.stream:24096^$third-party
+||moneroocean.stream:28192^$third-party
+
+! MoneroPool.com
+||mine.moneropool.com^$third-party
+
+! MultiMiner
+||mutex.multiminer.us^$third-party
+
+! Nanopool
+||etn-asia1.nanopool.org^$third-party
+||etn-au1.nanopool.org^$third-party
+||etn-eu1.nanopool.org^$third-party
+||etn-eu2.nanopool.org^$third-party
+||etn-jp1.nanopool.org^$third-party
+||etn-us-east1.nanopool.org^$third-party
+||etn-us-west1.nanopool.org^$third-party
+||grin29-asia1.nanopool.org^$third-party
+||grin29-au1.nanopool.org^$third-party
+||grin29-eu1.nanopool.org^$third-party
+||grin29-eu2.nanopool.org^$third-party
+||grin29-jp1.nanopool.org^$third-party
+||grin29-us-east1.nanopool.org^$third-party
+||grin29-us-west1.nanopool.org^$third-party
+||xmr-asia1.nanopool.org^$third-party
+||xmr-au1.nanopool.org^$third-party
+||xmr-eu1.nanopool.org^$third-party
+||xmr-eu2.nanopool.org^$third-party
+||xmr-jp1.nanopool.org^$third-party
+||xmr-us-east1.nanopool.org^$third-party
+||xmr-us-west1.nanopool.org^$third-party
+
+! Pool Tupi
+||aeon.pooltupi.com^$third-party
+
+! semiPOOL
+||pool.aeon.semipool.com^$third-party
+||pool.etn.semipool.com^$third-party
+||pool.grft.semipool.com^$third-party
+||pool.trtl.semipool.com^$third-party
+||pool.xmr.semipool.com^$third-party
+
+! Spacepools
+||etn.spacepools.org^$third-party
+||msr.spacepools.org^$third-party
+
+! SUMO Mining Pool
+||pool.sumokoin.com^$third-party
+
+! SuperPools.Online
+||etn.superpools.online^$third-party
+||aeon.superpools.online^$third-party
+
+! supportXMR.com
+||pool.supportxmr.com^$third-party
+
+! XMRPool.eu
+||xmrpool.eu:3333^$third-party
+||xmrpool.eu:5555^$third-party
+||xmrpool.eu:7777^$third-party
+
+! XMRPool.net
+||mine.xmrpool.net^$third-party
+
+! XUN Alpha Mining Pool
+||alpha.ultranote.org^$third-party
